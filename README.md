@@ -1,4 +1,6 @@
 **Lewis-A-Secure-Chat-App**
+
+
 A fully private, real‑time, 2‑person chat application built to prioritize security and speed — ideal for confidential communication with no data stored or traced.
 Features
 •	🔐 End‑to‑End Encryption
