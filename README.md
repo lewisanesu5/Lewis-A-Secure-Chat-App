@@ -2,20 +2,26 @@
 
 
 A fully private, real‑time, 2‑person chat application built to prioritize security and speed — ideal for confidential communication with no data stored or traced.
-Features
+
+**Features**
+
 •	🔐 End‑to‑End Encryption
 •	💬 2‑Person Real‑Time Messaging
 •	👥 User Authentication (Login/Register)
 •	🧹 No Message Retention
 •	🌐 Ngrok Tunnel for Secure Local Hosting
 •	💡 Emoji Support and Clean UI
-Tech Stack
+
+**Tech Stack**
+
 Layer	Tools / Libraries
 Frontend	HTML, CSS, JavaScript, React (optional)
 Backend	Node.js, Express.js
 Encryption	AES / RSA (custom logic)
 Deployment	Ngrok (HTTPS tunnel)
-Folder Structure
+
+**Folder Structure**
+
 Lewis-A-Secure-Chat-App/
 
 ├── backend/
@@ -67,10 +73,16 @@ ngrok http 3000
 
 CHAT INTERFACE:![WhatsApp Image 2025-06-05 at 04 32 39_287ea63f](https://github.com/user-attachments/assets/ed041599-65db-441b-8f4c-547cf195634c)
 
-License
+**License**
+
 MIT License
-Developer
+
+**Developer**
+
 Lewis Anesu Verengera
+
 9371787901
+
 BTECH CSE Student
+
 GitHub: https://github.com/lewisanesu5
