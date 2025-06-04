@@ -6,10 +6,15 @@ A fully private, real‑time, 2‑person chat application built to prioritize se
 **Features**
 
 •	🔐 End‑to‑End Encryption
+
 •	💬 2‑Person Real‑Time Messaging
+
 •	👥 User Authentication (Login/Register)
+
 •	🧹 No Message Retention
+
 •	🌐 Ngrok Tunnel for Secure Local Hosting
+
 •	💡 Emoji Support and Clean UI
 
 **Tech Stack**
@@ -79,10 +84,10 @@ MIT License
 
 **Developer**
 
-Lewis Anesu Verengera
+Lewis Anesushe Verengera
 
 9371787901
 
-BTECH CSE Student
+BTECH COMPUTER ENGINEERING (Student)
 
 GitHub: https://github.com/lewisanesu5
