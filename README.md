@@ -3,6 +3,8 @@
 
 A fully private, real‑time, 2‑person chat application built to prioritize security and speed — ideal for confidential communication with no data stored or traced.
 
+🌍 This system allows people to communicate globally, even when connected to different networks.
+
 **Features**
 
 •	🔐 End‑to‑End Encryption
